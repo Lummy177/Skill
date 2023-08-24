@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+$myFont: Helvetica;
+$myColor: yellow;
+$myFontsize: 10px;
+$myWidth: 680px; 
+
+body {
+    font-family: $myFont;
+    font-size: $myFontsize;
+    color: $myColor;
+}
+
+nav {
+    ul {
+        margin: ;
+        padding: ;
+        list-style-type: none;
+
+    }
+}
+
+/* @media screen (max-width: 768px) (min-width: 768px) {
+    
+} */
